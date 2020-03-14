@@ -1,0 +1,1 @@
+Purpose: Store the projects, exercises, and ideas from this book. 
